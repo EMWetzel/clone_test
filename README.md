@@ -20,5 +20,3 @@ cd clone_test
 
 python clone_test.py
 
-
-#By cloning, if the main branch is updated in GitHub (e.g. I make changes), your local file folder will update
