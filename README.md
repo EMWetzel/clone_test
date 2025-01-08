@@ -10,7 +10,7 @@ cd C:\Users\...
 
 5. Once you are in the correct folder, type:
 
-git clone <INSERT THE HTTPS WEB URL>
+git clone <URL>
 
 6. In the terminal cd into the folder that just appeared in your file
 
