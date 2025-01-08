@@ -10,7 +10,7 @@ cd C:\Users\...
 
 5. Once you are in the correct folder, type "git clone" and paste the Web Url that you copied in step 3. Example:
 
-git clone https://github.com/USERNAME/the-project-title.git
+git clone https://github.com/username/the-project-title.git
 
 6. In the terminal cd into the folder that just appeared in your file
 
